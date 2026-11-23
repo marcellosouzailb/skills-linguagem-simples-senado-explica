@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Se usar estas skills, cite como indicado abaixo."
+title: "Linguagem simples para resumos de proposições legislativas (skills)"
+type: software
+authors:
+  - family-names: "Souza"
+    given-names: "Marcello Fernandes de"
+version: "1.0.0"
+license: CC-BY-4.0
+language: pt
+keywords:
+  - linguagem simples
+  - comunicação legislativa
+  - inteligência artificial generativa
+  - Senado Federal
+abstract: "Dois conjuntos de instruções (skills) para assistentes de inteligência artificial escreverem e revisarem, em linguagem simples, resumos de proposições legislativas no formato do Senado Explica. Sugestão de um artigo da pós-graduação em Comunicação Legislativa do Instituto Legislativo Brasileiro (ILB). Não é produto oficial do Senado Federal."
