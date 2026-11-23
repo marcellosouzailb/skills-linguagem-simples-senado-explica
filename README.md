@@ -2,7 +2,9 @@
 
 Dois conjuntos de instruções para assistentes de inteligência artificial (skills). Eles orientam a IA a escrever e a revisar, em linguagem simples, o resumo de uma proposição legislativa, no formato usado pelo Senado Explica: "1. O que é:" e "2. O que diz o autor:".
 
-DOI: [preencher depois da primeira versão publicada no Zenodo]
+DOI da versão 1.0.0: [10.5281/zenodo.24476816](https://doi.org/10.5281/zenodo.24476816)
+
+DOI de todas as versões (aponta sempre para a mais recente): [10.5281/zenodo.24476815](https://doi.org/10.5281/zenodo.24476815)
 
 ## O que é
 
@@ -112,7 +114,7 @@ O texto das instruções foi redigido por IA generativa (Claude, da Anthropic), 
 
 ## Como citar
 
-SOUZA, Marcello Fernandes de. Linguagem simples para resumos de proposições legislativas (skills). Versão 1.0.0. [S. l.]: Zenodo, 2026. DOI: [preencher].
+SOUZA, Marcello Fernandes de. Linguagem simples para resumos de proposições legislativas (skills). Versão 1.0.0. [S. l.]: Zenodo, 2026. DOI: https://doi.org/10.5281/zenodo.24476816.
 
 ## Licença
 
